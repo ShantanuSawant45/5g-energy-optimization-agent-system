@@ -1,0 +1,8 @@
+langgraph==0.2.28
+langchain==0.3.7
+langchain-google-genai==2.0.4
+flwr==1.11.1
+torch==2.4.0
+pandas==2.2.3
+networkx==3.3
+openpyxl==3.1.5
